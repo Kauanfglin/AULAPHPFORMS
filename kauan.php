@@ -16,4 +16,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo "Formulário não foi submetido.";
 }
+
 ?>
